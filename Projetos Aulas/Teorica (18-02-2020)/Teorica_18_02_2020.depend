@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1582038466 source:c:\users\morgado\desktop\teorica_18_02_2020\funcoes.cpp
+	<stdlib.h>
+	"Tipo_Dados.h"
+
+1582038585 c:\users\morgado\desktop\teorica_18_02_2020\tipo_dados.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1582038601 source:c:\users\morgado\desktop\teorica_18_02_2020\principal.cpp
+	"Tipo_Dados.h"
+
+1582037928 source:c:\users\morgado\desktop\teorica_18_02_2020\uteis.cpp
+	<stdlib.h>
+	<time.h>
+	<stdlib.h>
+	"Tipo_Dados.h"
+
