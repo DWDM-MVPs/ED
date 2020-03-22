@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1582020891 source:c:\users\morgado\desktop\projecto_imc\principal.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"Estruturas.h"
+
+1582020636 c:\users\morgado\desktop\projecto_imc\estruturas.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1582022440 source:c:\users\morgado\desktop\projecto_imc\funcoes_imc.cpp
+	<stdio.h>
+	<string.h>
+	"Estruturas.h"
+
