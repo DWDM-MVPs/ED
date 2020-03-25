@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584452749 source:c:\users\fmorgado\desktop\pilhas_filas_17_03_2020\principal.cpp
+	"Lista.h"
+
+1584435497 source:c:\users\fmorgado\desktop\pilhas_filas_17_03_2020\lista.cpp
+	"Lista.h"
+
+1584435471 c:\users\fmorgado\desktop\pilhas_filas_17_03_2020\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
