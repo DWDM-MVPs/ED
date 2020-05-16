@@ -1,0 +1,6 @@
+CODIGO = [25]; NOME=[Joao]
+CODIGO = [15]; NOME=[Miguel]
+CODIGO = [30]; NOME=[David]
+CODIGO = [20]; NOME=[Daniel]
+CODIGO = [10]; NOME=[josezito]
+CODIGO = [25]; NOME=[Beatriz]
