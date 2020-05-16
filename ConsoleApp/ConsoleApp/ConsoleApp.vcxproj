@@ -151,13 +151,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Problema1.cpp" />
-    <ClCompile Include="Problema2.cpp" />
-    <ClCompile Include="Problema3.cpp" />
+    <ClCompile Include="Code 1.cpp" />
+    <ClCompile Include="Code 2.cpp" />
+    <ClCompile Include="Code 3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Problema1">
-      <DependentUpon>Problema1.cpp</DependentUpon>
+      <DependentUpon>Code 1.cpp</DependentUpon>
     </None>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

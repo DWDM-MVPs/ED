@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -58,3 +59,4 @@ int main()
 	OrdenarSemComparar(vector, sizeof(vector) / sizeof(vector[0]));
 	return 0;
 }
+*/
